@@ -1,4 +1,4 @@
-# C3DR
+# SQUINCH
 
 #####Warning this isn´t finished YET!
 
